@@ -57,7 +57,7 @@ export_config(config_file = config_file, model = model)
 run_ensemble(config_file = config_file, model = model)
 #> [1] "Running MyLake from 01/01/10 to 01/01/11..."
 #>    user  system elapsed 
-#>   17.35    0.58   18.25
+#>   16.50    0.45   17.03
 ```
 
 ## Post-processing
